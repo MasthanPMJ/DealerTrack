@@ -1,0 +1,5 @@
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Domain\bin\Release\Dealertrack.Domain.dll
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Domain\bin\Release\Dealertrack.Domain.pdb
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Domain\obj\Release\Dealertrack.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Domain\obj\Release\Dealertrack.Domain.dll
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Domain\obj\Release\Dealertrack.Domain.pdb

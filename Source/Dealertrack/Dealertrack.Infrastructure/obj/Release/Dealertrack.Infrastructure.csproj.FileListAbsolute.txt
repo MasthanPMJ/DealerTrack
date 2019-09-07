@@ -1,0 +1,13 @@
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastructure\bin\Release\Dealertrack.Infrastructure.dll
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastructure\bin\Release\Dealertrack.Infrastructure.pdb
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastructure\bin\Release\Dealertrack.Domain.dll
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastructure\bin\Release\Dealertrack.Infrastructure.Core.dll
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastructure\bin\Release\Newtonsoft.Json.dll
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastructure\bin\Release\Dealertrack.Domain.pdb
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastructure\bin\Release\Dealertrack.Infrastructure.Core.pdb
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastructure\bin\Release\Newtonsoft.Json.xml
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastructure\obj\Release\Dealertrack.Infrastructure.csprojAssemblyReference.cache
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastructure\obj\Release\Dealertrack.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastructure\obj\Release\Dealertrack.Infrastructure.csproj.CopyComplete
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastructure\obj\Release\Dealertrack.Infrastructure.dll
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastructure\obj\Release\Dealertrack.Infrastructure.pdb

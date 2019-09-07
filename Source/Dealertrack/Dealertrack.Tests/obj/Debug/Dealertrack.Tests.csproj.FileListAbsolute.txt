@@ -1,0 +1,13 @@
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Tests\bin\Debug\Dealertrack.Tests.dll
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Tests\bin\Debug\Dealertrack.Tests.pdb
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Tests\obj\Debug\Dealertrack.Tests.csproj.CoreCompileInputs.cache
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Tests\obj\Debug\Dealertrack.Tests.csproj.CopyComplete
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Tests\obj\Debug\Dealertrack.Tests.dll
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Tests\obj\Debug\Dealertrack.Tests.pdb

@@ -1,0 +1,6 @@
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Domain\bin\Debug\Dealertrack.Domain.dll
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Domain\bin\Debug\Dealertrack.Domain.pdb
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Domain\obj\Debug\Dealertrack.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Domain\obj\Debug\Dealertrack.Domain.dll
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Domain\obj\Debug\Dealertrack.Domain.pdb
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Domain\obj\Debug\Dealertrack.Domain.csprojAssemblyReference.cache

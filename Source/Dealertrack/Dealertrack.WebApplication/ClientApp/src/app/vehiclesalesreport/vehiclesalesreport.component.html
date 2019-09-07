@@ -1,0 +1,20 @@
+<h1>Vehicle Sales data</h1>
+
+<p *ngIf="!vehiclesales && !message"><em>Loading...</em></p>
+<p *ngIf="!vehiclesales && message"><em>Sales report not available, please upload data.</em></p>
+
+<table class='table' *ngIf="vehiclesales">
+  <thead>
+    <tr>
+      <th>Vehicle</th>
+      <th>UnitSold</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let vehicle of vehiclesales">
+      <td>{{ vehicle.name }}</td>
+      <td>{{ vehicle.unitSold }}</td>
+
+    </tr>
+  </tbody>
+</table>

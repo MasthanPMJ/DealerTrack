@@ -1,0 +1,9 @@
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastructure.Core\bin\Debug\Dealertrack.Infrastructure.Core.dll
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastructure.Core\bin\Debug\Dealertrack.Infrastructure.Core.pdb
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastructure.Core\obj\Debug\Dealertrack.Infrastructure.Core.csprojAssemblyReference.cache
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastructure.Core\obj\Debug\Dealertrack.Infrastructure.Core.csproj.CoreCompileInputs.cache
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastructure.Core\obj\Debug\Dealertrack.Infrastructure.Core.dll
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastructure.Core\obj\Debug\Dealertrack.Infrastructure.Core.pdb
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastructure.Core\bin\Debug\Dealertrack.Domain.dll
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastructure.Core\bin\Debug\Dealertrack.Domain.pdb
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastructure.Core\obj\Debug\Dealertrack.Infrastructure.Core.csproj.CopyComplete

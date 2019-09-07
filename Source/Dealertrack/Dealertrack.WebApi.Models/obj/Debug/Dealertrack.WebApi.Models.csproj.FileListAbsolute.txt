@@ -1,0 +1,11 @@
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.WebApi.Models\bin\Debug\Dealertrack.WebApi.Models.dll
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.WebApi.Models\bin\Debug\Dealertrack.WebApi.Models.pdb
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.WebApi.Models\bin\Debug\Dealertrack.Domain.dll
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.WebApi.Models\bin\Debug\Dealertrack.Domain.Service.Core.dll
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.WebApi.Models\bin\Debug\Dealertrack.Domain.Service.Core.pdb
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.WebApi.Models\bin\Debug\Dealertrack.Domain.pdb
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.WebApi.Models\obj\Debug\Dealertrack.WebApi.Models.csprojAssemblyReference.cache
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.WebApi.Models\obj\Debug\Dealertrack.WebApi.Models.csproj.CoreCompileInputs.cache
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.WebApi.Models\obj\Debug\Dealertrack.WebApi.Models.csproj.CopyComplete
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.WebApi.Models\obj\Debug\Dealertrack.WebApi.Models.dll
+C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.WebApi.Models\obj\Debug\Dealertrack.WebApi.Models.pdb
