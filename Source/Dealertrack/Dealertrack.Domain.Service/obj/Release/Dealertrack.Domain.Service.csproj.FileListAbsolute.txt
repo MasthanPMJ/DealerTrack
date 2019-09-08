@@ -11,3 +11,16 @@ C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Domain.Ser
 C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Domain.Service\obj\Release\Dealertrack.Domain.Service.csproj.CopyComplete
 C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Domain.Service\obj\Release\Dealertrack.Domain.Service.dll
 C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Domain.Service\obj\Release\Dealertrack.Domain.Service.pdb
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Domain.Service\bin\Release\Dealertrack.Domain.Service.dll
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Domain.Service\bin\Release\Dealertrack.Domain.Service.pdb
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Domain.Service\bin\Release\Dealertrack.Domain.dll
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Domain.Service\bin\Release\Dealertrack.Domain.Service.Core.dll
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Domain.Service\bin\Release\Dealertrack.Infrastructure.Core.dll
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Domain.Service\bin\Release\Dealertrack.Domain.Service.Core.pdb
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Domain.Service\bin\Release\Dealertrack.Domain.pdb
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Domain.Service\bin\Release\Dealertrack.Infrastructure.Core.pdb
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Domain.Service\obj\Release\Dealertrack.Domain.Service.csprojAssemblyReference.cache
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Domain.Service\obj\Release\Dealertrack.Domain.Service.csproj.CoreCompileInputs.cache
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Domain.Service\obj\Release\Dealertrack.Domain.Service.csproj.CopyComplete
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Domain.Service\obj\Release\Dealertrack.Domain.Service.dll
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Domain.Service\obj\Release\Dealertrack.Domain.Service.pdb

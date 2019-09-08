@@ -1,5 +1,6 @@
 import { Component, Inject } from '@angular/core';
 import { HttpClient, HttpRequest, HttpEventType } from '@angular/common/http';
+import { error } from 'protractor';
 
 @Component({
   selector: 'app-data-import',
@@ -28,7 +29,7 @@ export class DataImportComponent {
         this.progress = Math.round(100 * event.loaded / event.total);
       else if (event.type === HttpEventType.Response)
         this.message = event.body.toString();
-    });
+    }, error => { this.message = "Error in uploading file, please check file format"; console.error(error) });
   }
 }
 

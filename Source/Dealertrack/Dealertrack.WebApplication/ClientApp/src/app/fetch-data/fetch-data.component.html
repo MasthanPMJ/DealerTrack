@@ -1,9 +1,10 @@
 <h1>Deals data</h1>
 
-
+      
 <p *ngIf="!deals && !message"><em>Loading...</em></p>
-<p *ngIf="!deals && message" ><em>Sales report not available, please upload data.</em></p>
+<p *ngIf="!deals && message"><em>Sales report not available, please upload data.</em></p>
 <table class='table' *ngIf="deals">
+
   <thead>
     <tr>
       <th>Deal Number</th>
@@ -20,7 +21,7 @@
       <td>{{ deal.customerName }}</td>
       <td>{{ deal.dealershipName }}</td>
       <td>{{ deal.vehicle }}</td>
-      <td>{{ deal.price |currency : 'CAD':'code'}}</td>
+      <td>{{ deal.price |currency : 'CAD$':'code'}}</td>
       <td>{{ deal.soldDate | date:'M/d/yyy' }}</td>
     </tr>
   </tbody>

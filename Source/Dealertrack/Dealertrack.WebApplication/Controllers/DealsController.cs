@@ -21,11 +21,11 @@ namespace DealerTrack.Controllers
         }
         // GET: api/Deals
         [HttpGet]
-        public JsonResult  Get()
+        public JsonResult Get()
         {
             var deals = _dealsService.GetDealData();
             return new JsonResult(deals);
-             
+
         }
         // GET: api/Deals/VehicleSales
         [Route("vehiclesales")]
@@ -43,8 +43,8 @@ namespace DealerTrack.Controllers
                 var file = Request.Form.Files[0];
                 if (file.Length > 0)
                 {
-                   var streamReader = new StreamReader(file.OpenReadStream(), Encoding.GetEncoding("iso-8859-1"));
-                   var fileConent = streamReader.ReadToEnd();
+                    var streamReader = new StreamReader(file.OpenReadStream(), Encoding.GetEncoding("iso-8859-1"));
+                    var fileConent = streamReader.ReadToEnd();
                     var deals = DealMapper.ToDealList(fileConent);
                     _dealsService.SaveDealData(deals);
                 }
@@ -53,7 +53,7 @@ namespace DealerTrack.Controllers
             }
             catch (System.Exception ex)
             {
-                return new JsonResult ("Upload Failed: " + ex.Message);
+                throw ex;
             }
         }
     }

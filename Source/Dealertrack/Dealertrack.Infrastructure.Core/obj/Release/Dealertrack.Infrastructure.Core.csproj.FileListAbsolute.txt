@@ -7,3 +7,12 @@ C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastruc
 C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastructure.Core\obj\Release\Dealertrack.Infrastructure.Core.csproj.CopyComplete
 C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastructure.Core\obj\Release\Dealertrack.Infrastructure.Core.dll
 C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastructure.Core\obj\Release\Dealertrack.Infrastructure.Core.pdb
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Infrastructure.Core\bin\Release\Dealertrack.Infrastructure.Core.dll
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Infrastructure.Core\bin\Release\Dealertrack.Infrastructure.Core.pdb
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Infrastructure.Core\bin\Release\Dealertrack.Domain.dll
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Infrastructure.Core\bin\Release\Dealertrack.Domain.pdb
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Infrastructure.Core\obj\Release\Dealertrack.Infrastructure.Core.csprojAssemblyReference.cache
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Infrastructure.Core\obj\Release\Dealertrack.Infrastructure.Core.csproj.CoreCompileInputs.cache
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Infrastructure.Core\obj\Release\Dealertrack.Infrastructure.Core.csproj.CopyComplete
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Infrastructure.Core\obj\Release\Dealertrack.Infrastructure.Core.dll
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Infrastructure.Core\obj\Release\Dealertrack.Infrastructure.Core.pdb

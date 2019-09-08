@@ -8,30 +8,6 @@ namespace Dealertrack.WebApi.Models.Mappers
 {
     public static class DealMapper
     {
-        public static IDeal ToDomain(this DealApiModel dealApiModel)
-        {
-            return new Deal()
-            {
-                CustomerName = dealApiModel.CustomerName,
-                DealershipName = dealApiModel.DealershipName,
-                DealNumber = dealApiModel.DealNumber,
-                Price = dealApiModel.Price,
-                SoldDate = dealApiModel.SoldDate,
-                Vehicle = dealApiModel.Vehicle
-            };
-        }
-        public static DealApiModel ToModel(this IDeal deal)
-        {
-            return new DealApiModel()
-            {
-                CustomerName = deal.CustomerName,
-                DealershipName = deal.DealershipName,
-                DealNumber = deal.DealNumber,
-                Price = deal.Price,
-                SoldDate = deal.SoldDate,
-                Vehicle = deal.Vehicle
-            };
-        }
         public static List<IDeal> ToDealList(string dealsCsv)
         {
 

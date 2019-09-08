@@ -42,10 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Mappers\DealMapper.cs" />
-    <Compile Include="Mappers\VehicleSalesMapper.cs" />
-    <Compile Include="Model\DealApiModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Model\VehicleSalesApiModel.cs" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

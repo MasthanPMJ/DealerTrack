@@ -11,3 +11,16 @@ C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastruc
 C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastructure\obj\Debug\Dealertrack.Infrastructure.pdb
 C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastructure\bin\Debug\Dealertrack.Domain.dll
 C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.Infrastructure\bin\Debug\Dealertrack.Domain.pdb
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Infrastructure\bin\Debug\Dealertrack.Infrastructure.dll
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Infrastructure\bin\Debug\Dealertrack.Infrastructure.pdb
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Infrastructure\bin\Debug\Dealertrack.Domain.dll
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Infrastructure\bin\Debug\Dealertrack.Infrastructure.Core.dll
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Infrastructure\bin\Debug\Newtonsoft.Json.dll
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Infrastructure\bin\Debug\Dealertrack.Domain.pdb
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Infrastructure\bin\Debug\Dealertrack.Infrastructure.Core.pdb
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Infrastructure\bin\Debug\Newtonsoft.Json.xml
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Infrastructure\obj\Debug\Dealertrack.Infrastructure.csprojAssemblyReference.cache
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Infrastructure\obj\Debug\Dealertrack.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Infrastructure\obj\Debug\Dealertrack.Infrastructure.csproj.CopyComplete
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Infrastructure\obj\Debug\Dealertrack.Infrastructure.dll
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.Infrastructure\obj\Debug\Dealertrack.Infrastructure.pdb

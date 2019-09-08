@@ -1,0 +1,30 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "@angular/animations": "^8.2.5",
+    "@angular/cdk": "^8.1.4",
+    "@angular/material": "^8.1.4",
+    "classlist.js": "1.1.20150312",
+    "datepicker-angular": {
+      "integrity": "sha512-daeRAvpAk7L0XLFbYKjSVa7MykMVof2fDm8hra2+xDcJG6fIyc+/baJSHN8OB1dZifTtL9q+OShezTVuTCxSoA==",
+      "requires": {
+        "tslib": "^1.9.0"
+      },
+      "resolved": "https://registry.npmjs.org/datepicker-angular/-/datepicker-angular-0.0.4.tgz",
+      "version": "0.0.4"
+    },
+    "hammerjs": "^2.0.8",
+    "ngx-bootstrap": "^3.3.0",
+    "parse5": {
+      "integrity": "sha512-fxNG2sQjHvlVAYmzBZS9YlDp6PTSSDwa98vkD4QgVDDCAo84z5X1t5XyJQ62ImdLXx5NdIIfihey6xpum9/gRQ==",
+      "resolved": "https://registry.npmjs.org/parse5/-/parse5-5.1.0.tgz",
+      "version": "5.1.0"
+    },
+    "tslib": {
+      "integrity": "sha512-qOebF53frne81cf0S9B41ByenJ3/IuH8yJKngAX35CmiZySA0khhkovshKK+jGCaMnVomla7gVlIcc3EvKPbTQ==",
+      "resolved": "https://registry.npmjs.org/tslib/-/tslib-1.10.0.tgz",
+      "version": "1.10.0"
+    }
+  }
+}

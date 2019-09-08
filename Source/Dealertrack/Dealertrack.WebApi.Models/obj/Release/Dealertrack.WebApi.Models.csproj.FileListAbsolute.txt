@@ -9,3 +9,14 @@ C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.WebApi.Mod
 C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.WebApi.Models\obj\Release\Dealertrack.WebApi.Models.csproj.CopyComplete
 C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.WebApi.Models\obj\Release\Dealertrack.WebApi.Models.dll
 C:\Users\mpoonamo\source\repos\Dealertrack1.0\Dealertrack\Dealertrack.WebApi.Models\obj\Release\Dealertrack.WebApi.Models.pdb
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.WebApi.Models\bin\Release\Dealertrack.WebApi.Models.dll
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.WebApi.Models\bin\Release\Dealertrack.WebApi.Models.pdb
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.WebApi.Models\bin\Release\Dealertrack.Domain.dll
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.WebApi.Models\bin\Release\Dealertrack.Domain.Service.Core.dll
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.WebApi.Models\bin\Release\Dealertrack.Domain.Service.Core.pdb
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.WebApi.Models\bin\Release\Dealertrack.Domain.pdb
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.WebApi.Models\obj\Release\Dealertrack.WebApi.Models.csprojAssemblyReference.cache
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.WebApi.Models\obj\Release\Dealertrack.WebApi.Models.csproj.CoreCompileInputs.cache
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.WebApi.Models\obj\Release\Dealertrack.WebApi.Models.csproj.CopyComplete
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.WebApi.Models\obj\Release\Dealertrack.WebApi.Models.dll
+C:\Masthan\DealerTrack-Git\Source\Dealertrack\Dealertrack.WebApi.Models\obj\Release\Dealertrack.WebApi.Models.pdb
