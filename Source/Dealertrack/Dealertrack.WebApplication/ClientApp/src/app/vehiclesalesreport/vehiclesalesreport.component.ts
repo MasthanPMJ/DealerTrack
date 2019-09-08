@@ -5,8 +5,8 @@ import { HttpClient } from '@angular/common/http';
   selector: 'app-vehiclesalesreport',
   templateUrl: './vehiclesalesreport.component.html'
 })
-export class VehicleSalesComponent {
-
+   export class VehicleSalesComponent {
+  
   public vehiclesales: VehicleSales[];
   public message: string;
   constructor(http: HttpClient, @Inject('BASE_URL') baseUrl: string) {

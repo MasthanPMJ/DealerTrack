@@ -19,6 +19,7 @@ import { DataImportComponent } from './data-import/data-import.component';
     VehicleSalesComponent,
     FetchDataComponent,
     DataImportComponent
+    
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'ng-cli-universal' }),
