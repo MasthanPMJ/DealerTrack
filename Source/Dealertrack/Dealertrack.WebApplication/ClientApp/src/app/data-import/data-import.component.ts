@@ -7,8 +7,7 @@ import { error } from 'protractor';
   templateUrl: './data-import.component.html'
 })
 export class DataImportComponent {
-  public progress: number;
-  public message: string;
+  public progress: string;
   constructor(private http: HttpClient) { }
 
   upload(files) {
@@ -26,10 +25,10 @@ export class DataImportComponent {
 
     this.http.request(uploadReq).subscribe(event => {
       if (event.type === HttpEventType.UploadProgress)
-        this.progress = Math.round(100 * event.loaded / event.total);
+        this.progress = "Upload in progress, please wait.";
       else if (event.type === HttpEventType.Response)
-        this.message = event.body.toString();
-    }, error => { this.message = "Error in uploading file, please check file format and content."; console.error(error) });
+        this.progress = "Upload Successful.";
+    }, error => { this.progress = "Error in uploading file, please check file format and content."; console.error(error) });
   }
 }
 

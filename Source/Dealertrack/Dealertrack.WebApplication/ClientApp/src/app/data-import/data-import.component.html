@@ -4,11 +4,9 @@
 
 <input #file type="file" accept=".csv"  (change)="upload(file.files)" />
 <br />
-<span style="color:black;" *ngIf="progress > 0 && progress < 100">
-  {{progress}}%
+<span style="color:black;" *ngIf="progress">
+  {{progress}}
 </span>
 
-<span style="color:black;" *ngIf="message">
-  {{message}}
-</span>
+ 
 
